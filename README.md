@@ -1,5 +1,7 @@
 KNN Classification with Scikit-learn
 This project demonstrates how to implement and understand the K-Nearest Neighbors (KNN) algorithm for classification tasks using the Iris dataset. It uses Python libraries such as Scikit-learn, Pandas, and Matplotlib.
+
+
 Step 1: Import Libraries
 We begin by importing essential Python libraries: numpy and pandas for data manipulation, matplotlib for visualization, and sklearn modules for dataset loading, preprocessing, model building, and evaluation. These tools provide a powerful foundation for machine learning workflows in Python.
 
